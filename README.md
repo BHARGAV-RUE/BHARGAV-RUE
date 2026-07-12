@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 💻 Backend-focused developer (Java + Spring Boot)
 - 🔐 Strong in **JWT, RBAC, and secure API design**
-- 🧠 Solved **400+ DSA problems**
+- 🧠 Solved **150+ DSA problems**
 - ⚙️ Love building **scalable backend systems**
 - 🚀 Deployed real-world apps (Railway + Vercel)
 - 💼 Open to opportunities
