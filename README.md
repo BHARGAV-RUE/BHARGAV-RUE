@@ -86,7 +86,7 @@
 ---
 
 ## 🏆 Achievements
-- 🧠 Solved **400+ DSA problems**
+- 🧠 Solved **150+ DSA problems**
 - 🚀 Built and deployed full-stack applications
 - 🧩 Published a VS Code extension
 - 🔐 Implemented enterprise-level RBAC security
