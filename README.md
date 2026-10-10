@@ -69,22 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BHARGAV-RUE&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHARGAV-RUE&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAV-RUE&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Achievements
 - 🧠 Solved **150+ DSA problems**
 - 🚀 Built and deployed full-stack applications
