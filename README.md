@@ -17,14 +17,14 @@
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack 
 
-### 🧠 Languages
+### 🧠 Languages 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend 
 <p>
   <img src="https://skillicons.dev/icons?i=spring" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge" />
