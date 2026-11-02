@@ -1,7 +1,6 @@
-## BHARGAV KALLEPALLY
+<p align="center">
+  <h1>BHARGAV KALLEPALLY</h1>
+</p>
+CLOUD • BLOCKCHAIN • DEVOPS
 
-# DevOps
-
-# Block-chain
-
-# Java
+JAVA • JAVASCRIPT
